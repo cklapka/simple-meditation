@@ -1,3 +1,8 @@
+# This is my attempt to learn React Native
+I have currently following the following tutorial: https://www.youtube.com/watch?v=9UKCv9T_rIo&t=2074s
+ Course developed by ‪@StevenCodeCraft‬ 
+ https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
